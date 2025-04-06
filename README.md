@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Electronic Hospital Records](https://github.com/tejasharish1234/Medical_Records_Blockchain)
 
-- 🌱 I’m currently learning **Cybersecurity by solving PicoCTF problems**
+- 🌱 I’m currently learning **Basics of Cybersecurity by solving PicoCTF problems**
 
 - 📫 How to reach me **tejasharish1234@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tejas-mysore-harish-59b040298/](https://www.linkedin.com/in/tejas-mysore-harish-59b040298/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/tejas-mysore-harish-59b040298/](https://drive.google.com/file/d/1cqhBZkJYAACabOqoqtVBIVzo-zaojgax/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
