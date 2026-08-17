@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tejas MH</h1>
-<h3 align="center">A student looking to explore the world of CS.</h3>
+<h3 align="center">A student looking to explore the world of Cyber Security.</h3>
 
-- 🔭 I’m currently working on [Electronic Hospital Records](https://github.com/tejasharish1234/Medical_Records_Blockchain)
-
-- 🌱 I’m currently learning **Basics of Cybersecurity by solving PicoCTF problems**
+- 🌱 I’m currently learning **Basics of Ethical Hacking**
 
 - 📫 How to reach me **tejasharish1234@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1cqhBZkJYAACabOqoqtVBIVzo-zaojgax/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1sjBesnNSRvDqosokWzJXnp6p8YN2wIX2/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
